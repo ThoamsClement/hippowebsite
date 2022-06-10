@@ -50,7 +50,7 @@ menu:
   - title:             海報
     url:               /poster/
   - title:             參考文獻
-    url:               /reference_data/
+    url:               /document/
   - title:             影片
     url:               /video/
 
